@@ -5,3 +5,4 @@ Allows you to
 - Calculates your average expenses for a year
 - Display's graph of the data
 
+credits to NeelPa
